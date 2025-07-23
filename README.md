@@ -1,6 +1,9 @@
 # ByteLog - Full-Stack Blog Website
 
 A modern, feature-rich blog platform built with React, TypeScript, Firebase, and Tailwind CSS.
+Under CONSTRUCTION working to make BEST.
+
+>live preview - https://bytelog-online.vercel.app/
 
 ## 🚀 Features
 
@@ -36,7 +39,7 @@ A modern, feature-rich blog platform built with React, TypeScript, Firebase, and
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/itz-anas/ByteLog
 cd ByteLog
 npm install
 ```
@@ -45,8 +48,7 @@ npm install
 
 Copy the example environment file:
 ```bash
-cp .env.example .env
-```
+
 
 ### 3. Clerk Setup
 
@@ -139,4 +141,4 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ## 📞 Support
 
-For issues and questions, please create an issue in the GitHub repository.
+gmail - infodeveloper.mail@gmail.com
